@@ -18,11 +18,11 @@ This project involves:
 
 📁 Student-Management-System/
 
-├── 📄 Student\_Management\_System\_Report.docx
+├── 📄 Student Management System Report.docx
 
 ├── 📄 README.md
 
-├── 📄 Student\_DB\_Schema.sql
+├── 📄 Student DB Schema.sql
 
 ├── 📄 Student DB queries
 
@@ -62,9 +62,8 @@ This project involves:
 ## 👩‍💻 Author
 
 **Sylvia Imisi**  
-Data Analyst | SQL • Power BI • Python • Excel  
-[LinkedIn Profile](https://www.linkedin.com) *(update this with your actual link)*
-
+Data Analyst 
+[LinkedIn Profile] (https://www.linkedin.com/in/sylvia-imisi/) 
 ---
 
 ## 📄 License
